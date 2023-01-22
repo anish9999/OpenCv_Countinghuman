@@ -16,7 +16,7 @@
 
 # ***Issues With dlib***
 - [x][dlib_version_3.9.13](https://github.com/datamagic2020/Install-dlib)
-Installing dlib
+# ***Installing dlib***
 - pip install "D:\Install-dlib-main\dlib-19.22.99-cp39-cp39-win_amd64.whl"
 - pip cmake
 
